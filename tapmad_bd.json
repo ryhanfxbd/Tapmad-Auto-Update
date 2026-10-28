@@ -1,67 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 AM 28-10-2026",
+        "LastUpdate": "07:00 AM 28-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 0,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19111,
-            "VideoName": "Afghanistan vs Zimbabwe",
-            "CategoryName": "Afghanistan vs Zimbabwe 2026",
-            "StageName": "1st T20I",
-            "EventStartDate": "2026-10-27 20:30:00",
-            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 27-Oct-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792753999540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792753999540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1245,
-            "UrlSlug": "afg-vs-zim-1st-t20i-live",
-            "stream_url": [
-                "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18793,
-            "VideoName": "Al Shamal SC (QAT) vs Al-Hilal SFC (KSA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 00:15:00",
-            "Description": "Watch Al Shamal SC vs Al-Hilal SFC live online on tapmad. The AFC Champions League Elite Al Shamal SC vs Al-Hilal SFC match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792568540540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792568540540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Al Shamal SC vs Al-Hilal SFC",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 18543,
-            "VideoName": "Al Shorta (IRQ) vs Al Hussein (JOR)",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 00:15:00",
-            "Description": "Watch Al Shorta vs Al Hussein live online on tapmad. The AFC Champions League Two Al Shorta vs Al Hussein match is scheduled to take place on 28-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792654940540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792654941540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            ]
-        },
         {
             "EntityId": 19120,
             "VideoName": "Bangladesh vs West Indies",
