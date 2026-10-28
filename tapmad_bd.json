@@ -1,88 +1,49 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 28-10-2026",
+        "LastUpdate": "07:00 PM 28-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 3,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19120,
-            "VideoName": "Bangladesh vs West Indies",
-            "CategoryName": "West indies Tour of Bangladesh 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-10-28 10:00:00",
-            "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1246,
-            "UrlSlug": "ban-vs-wi-1st-test-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-            ]
-        },
         {
             "EntityId": 17702,
             "VideoName": "South Africa vs Australia",
             "CategoryName": "Australia Tour of South Africa 2026",
             "StageName": "3rd Test",
-            "EventStartDate": "2026-10-28 14:30:00",
+            "EventStartDate": "2026-10-27 14:30:00",
             "Description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791890098540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1791890098540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1038,
-            "UrlSlug": "australia-tour-of-south-africa-2026"
-        },
-        {
-            "EntityId": 18773,
-            "VideoName": "Kashima Antlers (JPN) vs FC Pohang Steelers (KOR)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 16:00:00",
-            "Description": "Watch Kashima Antlers vs FC Pohang Steelers live online on tapmad. The AFC Champions League Elite Kashima Antlers vs FC Pohang Steelers match is scheduled to take place on 28-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792738131540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792738131540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Kashima Antlers vs FC Pohang Steelers"
-        },
-        {
-            "EntityId": 18768,
-            "VideoName": "Gamba Osaka (JPN) vs Buriram United (THA)",
-            "CategoryName": "AFC Champions League Elite 2026/27",
-            "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 16:00:00",
-            "Description": "Watch Gamba Osaka vs Buriram United live online on tapmad. The AFC Champions League Elite Gamba Osaka vs Buriram United match is scheduled to take place on 28-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792737665540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792737665540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Gamba Osaka vs Buriram United"
+            "UrlSlug": "australia-tour-of-south-africa-2026",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8",
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+            ]
         },
         {
             "EntityId": 18583,
             "VideoName": "Persib Bandung (IDN) vs Melbourne Victory FC (AUS)",
             "CategoryName": "AFC Champions League Two 2026/27",
             "StageName": "MATCHDAY 3",
-            "EventStartDate": "2026-10-28 17:15:00",
+            "EventStartDate": "2026-10-28 18:15:00",
             "Description": "Watch Persib Bandung vs Melbourne Victory FC live online on tapmad. The AFC Champions League Two Persib Bandung vs Melbourne Victory FC match is scheduled to take place on 28-Oct,  at 05:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792655348540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792655349540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            ]
         },
         {
             "EntityId": 18548,
@@ -94,9 +55,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792656447540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792656447540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+            ]
         },
         {
             "EntityId": 18558,
@@ -183,6 +147,20 @@
             "UrlSlug": "afc-champions-league-two"
         },
         {
+            "EntityId": 19120,
+            "VideoName": "Bangladesh vs West Indies",
+            "CategoryName": "West indies Tour of Bangladesh 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-10-29 10:00:00",
+            "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1246,
+            "UrlSlug": "ban-vs-wi-1st-test-live"
+        },
+        {
             "EntityId": 19178,
             "VideoName": "Melbourne Renegades vs Sydney Thunder",
             "CategoryName": "Women's Big Bash League 2026",
@@ -237,6 +215,62 @@
             "Status": "Upcoming",
             "CategoryId": 1247,
             "UrlSlug": "sta-vs-hh-2nd-t20i-live"
+        },
+        {
+            "EntityId": 18598,
+            "VideoName": "Tampines Rovers FC (SGP) vs Preah Khan Reach Svay Rieng FC (CAM)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 16:00:00",
+            "Description": "Watch Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC live online on tapmad. The AFC Champions League Two Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC match is scheduled to take place on 29-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792740506540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792740506540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18593,
+            "VideoName": "Gangwon FC (KOR) vs Kuching City FC (MAS)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 16:00:00",
+            "Description": "Watch Gangwon FC vs Kuching City FC live online on tapmad. The AFC Champions League Two Gangwon FC vs Kuching City FC match is scheduled to take place on 29-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792740205540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792740205540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18613,
+            "VideoName": "Phnom Penh Crown FC (CAM) vs Kitchee SC (HKG)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 18:15:00",
+            "Description": "Watch Phnom Penh Crown FC vs Kitchee SC live online on tapmad. The AFC Champions League Two Phnom Penh Crown FC vs Kitchee SC match is scheduled to take place on 29-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792741467540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792741467540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
+        },
+        {
+            "EntityId": 18608,
+            "VideoName": "Tai Po FC (HKG) vs BG Pathum United (THA)",
+            "CategoryName": "AFC Champions League Two 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-10-29 18:15:00",
+            "Description": "Watch Tai Po FC vs BG Pathum United live online on tapmad. The AFC Champions League Two Tai Po FC vs BG Pathum United match is scheduled to take place on 29-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792741176540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792741176540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 829,
+            "UrlSlug": "afc-champions-league-two"
         }
     ]
 }
