@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:00 AM 29-10-2026",
+        "LastUpdate": "01:00 PM 29-10-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -15,14 +15,17 @@
             "VideoName": "Bangladesh vs West Indies",
             "CategoryName": "West indies Tour of Bangladesh 2026",
             "StageName": "1st Test",
-            "EventStartDate": "2026-10-29 10:00:00",
+            "EventStartDate": "2026-10-28 10:00:00",
             "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792999918540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792999918540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1246,
-            "UrlSlug": "ban-vs-wi-1st-test-live"
+            "UrlSlug": "ban-vs-wi-1st-test-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 19178,
@@ -34,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793007265540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793007265540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1247,
-            "UrlSlug": "mlr-vs-sct-1st-t20i-live"
+            "UrlSlug": "mlr-vs-sct-1st-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+            ]
         },
         {
             "EntityId": 18588,
@@ -219,6 +225,34 @@
             "Status": "Upcoming",
             "CategoryId": 1115,
             "UrlSlug": "nice-vs-rennes-ligue-one-live-match"
+        },
+        {
+            "EntityId": 18440,
+            "VideoName": "Le Havre vs PSG",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-10-31 00:00:00",
+            "Description": "Watch Le Havre vs PSG live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Havre vs PSG match will take place on 30-Oct, Friday, at 11:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793101888540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793101888540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "le havre-vs-psg-ligue-one-live-match"
+        },
+        {
+            "EntityId": 18441,
+            "VideoName": "LOSC vs Lens",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-10-31 02:05:00",
+            "Description": "Watch LOSC vs Lens live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The LOSC vs Lens match will take place on 31-Oct, Saturday, at 01:05 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793102300540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793102300540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "losc-vs-lens-ligue-one-live-match"
         }
     ]
 }
