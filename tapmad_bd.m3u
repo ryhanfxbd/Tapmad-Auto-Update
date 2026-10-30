@@ -1,12 +1,14 @@
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 PM 30-10-2026
+# Last Update: 12:45 AM 31-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931021461020x576.jpg" group-title="Football", Nice vs Rennes - MATCHDAY 9 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18440" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931018881020x576.jpg" group-title="Football", Le Havre vs PSG - MATCHDAY 9 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-17115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932627191020x576.jpg" group-title="Football", Al Shabab vs Al Ahli - MATCHDAY 12 - Saudi Pro League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
