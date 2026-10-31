@@ -1,14 +1,12 @@
 # Playlist Name: Tapmad bd
-# Last Update: 06:45 PM 31-10-2026
+# Last Update: 12:45 AM 01-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026
+#EXTINF:-1 tvg-id="tapmad-19450" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933449331020x576.jpg" group-title="Football", Betis vs Malaga - MATCHDAY 11 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-17111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932612401020x576.jpg" group-title="Football", Al Hilal vs Al Fateh - MATCHDAY 12 - Saudi Pro League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
