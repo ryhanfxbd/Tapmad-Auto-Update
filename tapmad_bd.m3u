@@ -1,14 +1,20 @@
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 AM 31-10-2026
+# Last Update: 12:45 PM 31-10-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933636321020x576.jpg" group-title="Racing", GTWC Asia - Qualifiers - Shanghai, China - Qualifying Race - GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-19477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933641461020x576.jpg" group-title="Racing", GTWC Asia - Race 1 - Shanghai, China - Race 1 - GT World Challenge EU & Asia 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19181" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930881831020x576.jpg" group-title="Cricket", Adelaide Strikers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
