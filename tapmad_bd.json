@@ -1,126 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:00 PM 01-11-2026",
+        "LastUpdate": "06:45 PM 01-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 4,
+        "LiveCount": 3,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19059,
-            "VideoName": "New Zealand vs India",
-            "CategoryName": "India Tour of New Zealand 2026",
-            "StageName": "5th T20I",
-            "EventStartDate": "2026-11-01 13:00:00",
-            "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th T20I is scheduled to be played on 01-Nov-2026 at 12:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792574116540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1792574116540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1214,
-            "UrlSlug": "nz-vs-ind-5th-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19338,
-            "VideoName": "Hong Kong Sixes - Day 3",
-            "CategoryName": "Hong Kong International Sixes 2026",
-            "StageName": "Knockout Stage / Finals",
-            "EventStartDate": "2026-11-01 07:40:00",
-            "Description": "Watch Hong Kong International Sixes 2026/27 live on tapmad. The Hong Kong Sixes - Day 3 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 01-Nov-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026/27live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793264543540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793264543540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1289,
-            "UrlSlug": "hong-kong-sixes---day-3-vs--3rd-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19483,
-            "VideoName": "GTWC Asia - Race 2 - Shanghai, China",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 2",
-            "EventStartDate": "2026-11-01 10:40:00",
-            "Description": "The  GTWC Asia - Race 2 - Shanghai, China match is scheduled to take place on 01-Nov, at 10:40 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793364552540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793364552540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 371,
-            "UrlSlug": "gtwc-asia---race-2---shanghai,-china-live",
-            "stream_url": [
-                "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19183,
-            "VideoName": "Sydney Thunder vs Brisbane Heat",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-01 10:40:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 6th T20I is scheduled to be played on 01-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793489150540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793489150540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1247,
-            "UrlSlug": "sct-vs-brh-6th-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19184,
-            "VideoName": "Sydney Sixers vs Hobart Hurricanes",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-01 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 7th T20I is scheduled to be played on 01-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793489400540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793489400540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "sys-vs-hh-7th-t20i-live"
-        },
-        {
-            "EntityId": 19229,
-            "VideoName": "Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK)",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-11-01 14:30:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093984540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093984540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Hwacheon KSPO WFC (KOR)-vs-4.25 Sports Club (PRK)"
-        },
-        {
-            "EntityId": 19224,
-            "VideoName": "INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN)",
-            "CategoryName": "AFC Women's Champions League 2026/27",
-            "StageName": "MATCHDAY 1",
-            "EventStartDate": "2026-11-01 14:30:00",
-            "Description": "Watch the AFC Women's Champions League 2025/26 live online on tapmad. The AFC Women's Champions League 2025/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793093650540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793093650540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-INAC Kobe Leonessa (JPN)-vs-Bam Khatoon FC (IRN)"
-        },
         {
             "EntityId": 19234,
             "VideoName": "Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI)",
@@ -131,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793094359540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793094359540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Beijing Jingtan Football Club (CHN)-vs-Kaya FC-Iloilo (PHI)"
+            "UrlSlug": "AFC Women's Champions League-Beijing Jingtan Football Club (CHN)-vs-Kaya FC-Iloilo (PHI)",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+            ]
         },
         {
             "EntityId": 19239,
@@ -145,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793094722540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793094722540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 953,
-            "UrlSlug": "AFC Women's Champions League-Naegohyang Women's FC (PRK)-vs-Ayeyawady FC - Women (MYA)"
+            "UrlSlug": "AFC Women's Champions League-Naegohyang Women's FC (PRK)-vs-Ayeyawady FC - Women (MYA)",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+            ]
         },
         {
             "EntityId": 19452,
@@ -159,9 +54,13 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793345845540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793345845540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--getafe-vs-sevilla-live"
+            "UrlSlug": "laliga--getafe-vs-sevilla-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            ]
         },
         {
             "EntityId": 18446,
@@ -288,6 +187,90 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--elche-vs-valencia-live"
+        },
+        {
+            "EntityId": 18448,
+            "VideoName": "Marseille vs Toulouse",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-11-02 01:45:00",
+            "Description": "Watch Marseille vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Marseille vs Toulouse match will take place on 02-Nov, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169023540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169023540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "marseille-vs-toulouse-ligue-one-live-match"
+        },
+        {
+            "EntityId": 18444,
+            "VideoName": "Lorient vs Brest",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 9",
+            "EventStartDate": "2026-11-03 01:45:00",
+            "Description": "Watch Lorient vs Brest live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Brest match will take place on 03-Nov, Tuesday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793169167540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793169167540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "lorient-vs-brest-ligue-one-live-match"
+        },
+        {
+            "EntityId": 19375,
+            "VideoName": "Shakhtar Donetsk vs Sporting CP",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-03 23:45:00",
+            "Description": "Watch Shakhtar Donetsk vs Sporting CP live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Shakhtar Donetsk vs Sporting CP match will take place on 03-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793254746540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793254746540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "shakhtar donetsk-vs-sporting cp-ucl-live-match"
+        },
+        {
+            "EntityId": 19383,
+            "VideoName": "Villarreal vs Paris Saint-Germain",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-04 02:00:00",
+            "Description": "Watch Villarreal vs Paris Saint-Germain live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Villarreal vs Paris Saint-Germain match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255886540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255886540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "villarreal-vs-paris saint-germain-ucl-live-match"
+        },
+        {
+            "EntityId": 19382,
+            "VideoName": "Manchester United vs Roma",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-04 02:00:00",
+            "Description": "Watch Manchester United vs Roma live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Manchester United vs Roma match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255741540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255741540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "manchester united-vs-roma-ucl-live-match"
+        },
+        {
+            "EntityId": 19381,
+            "VideoName": "LASK vs Slovan Bratislava",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-04 02:00:00",
+            "Description": "Watch LASK vs Slovan Bratislava live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The LASK vs Slovan Bratislava match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255621540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255621540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "lask-vs-slovan bratislava-ucl-live-match"
         }
     ]
 }
