@@ -1,12 +1,12 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:00 AM 03-11-2026",
+        "LastUpdate": "01:15 PM 03-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 0,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
@@ -20,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793646053540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793646053540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 828,
-            "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Shanghai Port FC"
+            "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Shanghai Port FC",
+            "stream_url": [
+                "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            ]
         },
         {
             "EntityId": 19693,
@@ -219,6 +222,20 @@
             "Status": "Upcoming",
             "CategoryId": 826,
             "UrlSlug": "bodo/glimt-vs-lille-ucl-live-match"
+        },
+        {
+            "EntityId": 19379,
+            "VideoName": "Feyenoord vs Inter",
+            "CategoryName": "UEFA Champions League 2026/27",
+            "StageName": "MATCHDAY 3",
+            "EventStartDate": "2026-11-04 02:00:00",
+            "Description": "Watch Feyenoord vs Inter live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Inter match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255296540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793255296540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 826,
+            "UrlSlug": "feyenoord-vs-inter-ucl-live-match"
         }
     ]
 }
