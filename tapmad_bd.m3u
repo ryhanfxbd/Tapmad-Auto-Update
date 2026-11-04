@@ -1,12 +1,12 @@
 # Playlist Name: Tapmad bd
-# Last Update: 01:15 PM 04-11-2026
+# Last Update: 07:15 PM 04-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-19060" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936125251020x576.jpg" group-title="Cricket", New Zealand vs India - 1st ODI - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19060" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936125251020x576.jpg" group-title="Cricket", New Zealand vs India - 1st ODI - India Tour of New Zealand 2026 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19723" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937770031020x576.jpg" group-title="Football", Buriram United (THA) vs Kashima Antlers (JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19269" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937816751020x576.jpg" group-title="Football", Ayeyawady FC - Women (MYA) vs INAC Kobe Leonessa (JPN) - MATCHDAY 2 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
