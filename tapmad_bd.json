@@ -1,33 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 05-11-2026",
+        "LastUpdate": "07:15 PM 05-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 5,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19121,
-            "VideoName": "Bangladesh vs West Indies",
-            "CategoryName": "West indies Tour of Bangladesh 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-11-05 09:30:00",
-            "Description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 05-Nov-2026 at 09:30 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793611523540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1246,
-            "UrlSlug": "ban-vs-wi-2nd-test-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-            ]
-        },
         {
             "EntityId": 19114,
             "VideoName": "Afghanistan vs Zimbabwe",
@@ -35,8 +17,8 @@
             "StageName": "1st Test",
             "EventStartDate": "2026-11-05 12:00:00",
             "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793787973540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793787973540x302.jpg",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 1245,
@@ -44,65 +26,6 @@
             "stream_url": [
                 "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
             ]
-        },
-        {
-            "EntityId": 19187,
-            "VideoName": "Adelaide Strikers vs Brisbane Heat",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-05 10:40:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 10th T20I is scheduled to be played on 05-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793784162540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793784162540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1247,
-            "UrlSlug": "ads-vs-brh-10th-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19188,
-            "VideoName": "Sydney Thunder vs Perth Scorchers",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-05 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 11th T20I is scheduled to be played on 05-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793784315540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793784315540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "sct-vs-per-11th-t20i-live"
-        },
-        {
-            "EntityId": 19548,
-            "VideoName": "Kitchee SC (HKG) vs Phnom Penh Crown FC (CAM)",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-11-05 16:00:00",
-            "Description": "Watch Kitchee SC vs Phnom Penh Crown FC  live online on tapmad. The AFC Champions League Two Kitchee SC vs Phnom Penh Crown FC  match is scheduled to take place on 05-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793735344540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793735344540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
-        },
-        {
-            "EntityId": 19543,
-            "VideoName": "FC Machida Zelvia (JPN) vs Shanghai Shenhua FC (CHN)",
-            "CategoryName": "AFC Champions League Two 2026/27",
-            "StageName": "MATCHDAY 4",
-            "EventStartDate": "2026-11-05 16:00:00",
-            "Description": "Watch FC Machida Zelvia vs Shanghai Shenhua FC  live online on tapmad. The AFC Champions League Two FC Machida Zelvia vs Shanghai Shenhua FC  match is scheduled to take place on 05-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734921540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793734921540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
         },
         {
             "EntityId": 19538,
@@ -114,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734613540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793734613540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+            ]
         },
         {
             "EntityId": 19563,
@@ -128,9 +54,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736642540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793736642540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            ]
         },
         {
             "EntityId": 19558,
@@ -142,9 +71,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736276540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793736276540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+            ]
         },
         {
             "EntityId": 19553,
@@ -156,9 +88,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793735826540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793735826540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 829,
-            "UrlSlug": "afc-champions-league-two"
+            "UrlSlug": "afc-champions-league-two",
+            "stream_url": [
+                "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+            ]
         },
         {
             "EntityId": 19927,
@@ -271,6 +206,104 @@
             "Status": "Upcoming",
             "CategoryId": 905,
             "UrlSlug": "milan-vs-ferencvaros-uel-live-match"
+        },
+        {
+            "EntityId": 19842,
+            "VideoName": "Lillestrom vs Viktoria Plzen",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-05 23:45:00",
+            "Description": "Watch Lillestrom vs Viktoria Plzen live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Lillestrom vs Viktoria Plzen match will take place on 05-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734995540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793734995540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "lillestrom-vs-viktoria plzen-uel-live-match"
+        },
+        {
+            "EntityId": 19858,
+            "VideoName": "Benfica vs Lech Poznan",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch Benfica vs Lech Poznan live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Benfica vs Lech Poznan match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793738709540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793738709540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "benfica-vs-lech poznan-uel-live-match"
+        },
+        {
+            "EntityId": 19857,
+            "VideoName": "Leverkusen vs Marseille",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch Leverkusen vs Marseille live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Leverkusen vs Marseille match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793738548540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793738548540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "leverkusen-vs-marseille-uel-live-match"
+        },
+        {
+            "EntityId": 19856,
+            "VideoName": "AZ Alkmaar vs Juventus",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch AZ Alkmaar vs Juventus live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The AZ Alkmaar vs Juventus match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793738218540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793738218540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "az alkmaar-vs-juventus-uel-live-match"
+        },
+        {
+            "EntityId": 19855,
+            "VideoName": "H. Beer-Sheva vs OFI",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch H. Beer-Sheva vs OFI live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The H. Beer-Sheva vs OFI match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793738001540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793738001540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "h. beer-sheva-vs-ofi-uel-live-match"
+        },
+        {
+            "EntityId": 19854,
+            "VideoName": "Sturm Graz vs Celje",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch Sturm Graz vs Celje live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sturm Graz vs Celje match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737642540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793737642540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "sturm graz-vs-celje-uel-live-match"
+        },
+        {
+            "EntityId": 19853,
+            "VideoName": "Celtic vs Besiktas",
+            "CategoryName": "UEFA Europa League 2026/27",
+            "StageName": "MATCHDAY 4",
+            "EventStartDate": "2026-11-06 02:00:00",
+            "Description": "Watch Celtic vs Besiktas live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Celtic vs Besiktas match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737438540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793737438540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 905,
+            "UrlSlug": "celtic-vs-besiktas-uel-live-match"
         }
     ]
 }
