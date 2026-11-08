@@ -1,7 +1,7 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "07:00 PM 08-11-2026",
+        "LastUpdate": "12:45 AM 09-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
@@ -10,185 +10,6 @@
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19114,
-            "VideoName": "Afghanistan vs Zimbabwe",
-            "CategoryName": "Afghanistan vs Zimbabwe 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-11-05 12:00:00",
-            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1245,
-            "UrlSlug": "afg-vs-zim-1st-test-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20118,
-            "VideoName": "Stafford Rangers vs Grimsby Town",
-            "CategoryName": "FA Cup 2026/27",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-11-08 18:00:00",
-            "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971394540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971394540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1329,
-            "UrlSlug": "stafford rangers-vs-grimsby town-facup-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19462,
-            "VideoName": "Elche vs Betis",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 12",
-            "EventStartDate": "2026-11-08 19:00:00",
-            "Description": "The 103rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Elche vs Betis live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793968868540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793968868540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--elche-vs-betis-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19990,
-            "VideoName": "Leg 3 - Verona (ITA)",
-            "CategoryName": "Longines FEI Jumping World Cup 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-11-08 19:30:00",
-            "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793790706540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793790706540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 368,
-            "UrlSlug": "longines-fei-jumping-world-cup-2026"
-        },
-        {
-            "EntityId": 19962,
-            "VideoName": "Rennes vs LOSC",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 10",
-            "EventStartDate": "2026-11-08 20:00:00",
-            "Description": "Watch Rennes vs LOSC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Rennes vs LOSC match will take place on 08-Nov, Sunday, at 07:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792025540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792025540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "rennes-vs-losc-ligue-one-live-match"
-        },
-        {
-            "EntityId": 20119,
-            "VideoName": "Cray Wanderers vs Stockport County",
-            "CategoryName": "FA Cup 2026/27",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-11-08 20:15:00",
-            "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971513540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971513540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1329,
-            "UrlSlug": "cray wanderers-vs-stockport county-facup-live-match"
-        },
-        {
-            "EntityId": 20120,
-            "VideoName": "Wimborne Town vs Crawley Town",
-            "CategoryName": "FA Cup 2026/27",
-            "StageName": "1st Round",
-            "EventStartDate": "2026-11-08 21:00:00",
-            "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971642540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971642540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1329,
-            "UrlSlug": "wimborne town-vs-crawley town-facup-live-match"
-        },
-        {
-            "EntityId": 19463,
-            "VideoName": "Real Sociedad vs Rayo Vallecano",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 12",
-            "EventStartDate": "2026-11-08 21:15:00",
-            "Description": "The 104th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Sociedad vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793968962540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793968962540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--real-sociedad-vs-rayo-vallecano-live"
-        },
-        {
-            "EntityId": 19966,
-            "VideoName": "Le Havre vs Lorient",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 10",
-            "EventStartDate": "2026-11-08 22:15:00",
-            "Description": "Watch Le Havre vs Lorient live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Havre vs Lorient match will take place on 08-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792614540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792614540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "le havre-vs-lorient-ligue-one-live-match"
-        },
-        {
-            "EntityId": 19965,
-            "VideoName": "Brest vs OL",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 10",
-            "EventStartDate": "2026-11-08 22:15:00",
-            "Description": "Watch Brest vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Brest vs OL match will take place on 08-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792476540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792476540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "brest-vs-ol-ligue-one-live-match"
-        },
-        {
-            "EntityId": 19964,
-            "VideoName": "Le Mans vs Monaco",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 10",
-            "EventStartDate": "2026-11-08 22:15:00",
-            "Description": "Watch Le Mans vs Monaco live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Mans vs Monaco match will take place on 08-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792343540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792343540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "le mans-vs-monaco-ligue-one-live-match"
-        },
-        {
-            "EntityId": 19963,
-            "VideoName": "Angers vs Nice",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 10",
-            "EventStartDate": "2026-11-08 22:15:00",
-            "Description": "Watch Angers vs Nice live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Angers vs Nice match will take place on 08-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792171540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793792171540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "angers-vs-nice-ligue-one-live-match"
-        },
         {
             "EntityId": 20121,
             "VideoName": "Oldham Athletic vs Sheffield Wednesday",
@@ -199,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971770540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971770540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1329,
-            "UrlSlug": "oldham athletic-vs-sheffield wednesday-facup-live-match"
+            "UrlSlug": "oldham athletic-vs-sheffield wednesday-facup-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 19465,
@@ -213,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793969160540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793969160540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--celta-vs-levante-live"
+            "UrlSlug": "laliga--celta-vs-levante-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            ]
         },
         {
             "EntityId": 19464,
@@ -227,9 +54,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793969067540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793969067540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--villarreal-vs-getafe-live"
+            "UrlSlug": "laliga--villarreal-vs-getafe-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+            ]
         },
         {
             "EntityId": 19967,
@@ -272,6 +102,174 @@
             "Status": "Upcoming",
             "CategoryId": 1246,
             "UrlSlug": "ban-vs-wi-2nd-test-live"
+        },
+        {
+            "EntityId": 19996,
+            "VideoName": "Pakistan vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of Pakistan 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-11-09 10:30:00",
+            "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793858264540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1148,
+            "UrlSlug": "pak-vs-sri-1st-test-live"
+        },
+        {
+            "EntityId": 19114,
+            "VideoName": "Afghanistan vs Zimbabwe",
+            "CategoryName": "Afghanistan vs Zimbabwe 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-11-09 12:00:00",
+            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865686540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1245,
+            "UrlSlug": "afg-vs-zim-1st-test-live"
+        },
+        {
+            "EntityId": 20122,
+            "VideoName": "Plymouth Parkway vs Berkhamsted",
+            "CategoryName": "FA Cup 2026/27",
+            "StageName": "1st Round",
+            "EventStartDate": "2026-11-10 01:30:00",
+            "Description": "Watch FA Cup 2026/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971912540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793971912540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1329,
+            "UrlSlug": "plymouth parkway-vs-berkhamsted-facup-live-match"
+        },
+        {
+            "EntityId": 19062,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "3rd ODI",
+            "EventStartDate": "2026-11-10 08:00:00",
+            "Description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 10-Nov-2026 at 07:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786624540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786624540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-3rd-odi-live"
+        },
+        {
+            "EntityId": 19194,
+            "VideoName": "Hobart Hurricanes vs Adelaide Strikers",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-11-10 14:10:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 17th T20I is scheduled to be played on 10-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786219540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793786219540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "hh-vs-ads-17th-t20i-live"
+        },
+        {
+            "EntityId": 19195,
+            "VideoName": "Perth Scorchers vs Sydney Thunder",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-11-11 14:10:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs SCT brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 18th T20I is scheduled to be played on 11-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793857578540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793857578540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "per-vs-sct-18th-t20i-live"
+        },
+        {
+            "EntityId": 20001,
+            "VideoName": "Asian Qualifiers Draw - LA28",
+            "CategoryName": "Women's Olympic Football Tournament LA28: Asian Qualifiers",
+            "StageName": "Draw",
+            "EventStartDate": "2026-11-12 13:00:00",
+            "Description": "Watch Asian Qualifiers Draw - LA28 live match online on tapmad. The Asian Qualifiers 2026 brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Asian Qualifiers Draw - LA28 match will take place on 12-Nov, at 01:45 PM. Stream all Asian Qualifiers 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793947134540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793947134540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1324,
+            "UrlSlug": "Asian Qualifiers 2026-Asian Qualifiers Draw - LA28-vs-"
+        },
+        {
+            "EntityId": 20056,
+            "VideoName": "Turkiye vs Belgium",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-12 23:00:00",
+            "Description": "Watch Turkiye vs Belgium live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Turkiye vs Belgium match will take place on 12-Nov, Thursday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794087177540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794087177540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "turkiye-vs-belgium-unl-live-match"
+        },
+        {
+            "EntityId": 20055,
+            "VideoName": "Armenia vs Cyprus",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-12 23:00:00",
+            "Description": "Watch Armenia vs Cyprus live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Armenia vs Cyprus match will take place on 12-Nov, Thursday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794086994540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794086994540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "armenia-vs-cyprus-unl-live-match"
+        },
+        {
+            "EntityId": 20062,
+            "VideoName": "Montenegro vs Latvia",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-13 01:45:00",
+            "Description": "Watch Montenegro vs Latvia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Montenegro vs Latvia match will take place on 13-Nov, Friday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794149220540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794149220540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "montenegro-vs-latvia-unl-live-match"
+        },
+        {
+            "EntityId": 20061,
+            "VideoName": "England vs Croatia",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-13 01:45:00",
+            "Description": "Watch England vs Croatia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The England vs Croatia match will take place on 13-Nov, Friday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794149077540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794149077540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "england-vs-croatia-unl-live-match"
+        },
+        {
+            "EntityId": 20060,
+            "VideoName": "San Marino vs Belarus",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-13 01:45:00",
+            "Description": "Watch San Marino vs Belarus live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The San Marino vs Belarus match will take place on 13-Nov, Friday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794148942540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794148942540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "san marino-vs-belarus-unl-live-match"
         }
     ]
 }
