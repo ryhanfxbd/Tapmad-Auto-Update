@@ -1,5 +1,5 @@
 
-name: Tapmad Playlist Auto Update
+name: Tapmad Auto Update V2
 
 on:
   schedule:
@@ -10,37 +10,78 @@ permissions:
   contents: write
 
 concurrency:
-  group: tapmad-playlist-update
+  group: tapmad-auto-update
   cancel-in-progress: false
 
 jobs:
-  update-playlist:
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download latest playlist and JSON
+      - name: Download Latest Sources
         shell: bash
         run: |
           set -euo pipefail
 
-          curl -fsSL --retry 3 \
+          mkdir -p temp
+
+          curl -fLsS --retry 3 --max-time 120 \
             "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u" \
-            -o tapmad_bd.m3u
+            -o temp/tapmad_bd.m3u
 
-          curl -fsSL --retry 3 \
+          curl -fLsS --retry 3 --max-time 120 \
             "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.json" \
-            -o tapmad_bd.json
+            -o temp/tapmad_bd.json
 
-          test -s tapmad_bd.m3u
-          test -s tapmad_bd.json
+      - name: Validate Playlist and JSON
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
 
-      - name: Validate JSON
-        run: python -m json.tool tapmad_bd.json > /dev/null
+          m3u = Path("temp/tapmad_bd.m3u").read_text()
+          lines = [x.strip() for x in m3u.splitlines() if x.strip()]
 
-      - name: Commit changes
+          assert "#EXTM3U" in lines, "Invalid M3U header"
+          assert any(x.startswith("#EXTINF:") for x in lines), "No entries"
+          assert any(x.startswith("http") for x in lines), "No stream URLs"
+
+          data = json.loads(
+              Path("temp/tapmad_bd.json").read_text()
+          )
+
+          assert isinstance(data.get("Matches"), list)
+          assert len(data["Matches"]) > 0
+
+          for match in data["Matches"]:
+              assert match.get("EntityId") is not None
+              assert match.get("VideoName")
+              assert match.get("Status")
+
+          stats = data.get("Stats", {})
+          statuses = [m["Status"] for m in data["Matches"]]
+
+          if "LiveCount" in stats:
+              assert stats["LiveCount"] == statuses.count("Live")
+
+          if "UpcomingCount" in stats:
+              assert stats["UpcomingCount"] == statuses.count("Upcoming")
+
+          print("M3U validation: SUCCESS")
+          print("JSON validation: SUCCESS")
+          print("Matches:", len(data["Matches"]))
+          PY
+
+      - name: Publish Validated Files
+        run: |
+          cp temp/tapmad_bd.m3u tapmad_bd.m3u
+          cp temp/tapmad_bd.json tapmad_bd.json
+
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email \
@@ -49,9 +90,8 @@ jobs:
           git add tapmad_bd.m3u tapmad_bd.json
 
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update Tapmad playlist"
+            git commit -m "V2: Automated Tapmad update"
             git push
           else
-            echo "No changes detected."
+            echo "No changes detected"
           fi
-
