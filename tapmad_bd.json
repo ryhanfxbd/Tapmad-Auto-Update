@@ -1,75 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "06:45 PM 15-11-2026",
+        "LastUpdate": "12:45 AM 16-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19115,
-            "VideoName": "Afghanistan vs Zimbabwe",
-            "CategoryName": "Afghanistan vs Zimbabwe 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-11-13 12:00:00",
-            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865704540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865704540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1245,
-            "UrlSlug": "afg-vs-zim-2nd-test-live",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20082,
-            "VideoName": "Cyrpus vs Montenegro",
-            "CategoryName": "UEFA Nations League 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-11-15 20:00:00",
-            "Description": "Watch Cyrpus vs Montenegro live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Cyrpus vs Montenegro match will take place on 15-Nov, Sunday, at 07:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794552742540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794552742540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1120,
-            "UrlSlug": "cyrpus-vs-montenegro-unl-live-match"
-        },
-        {
-            "EntityId": 20081,
-            "VideoName": "Latvia vs Armenia",
-            "CategoryName": "UEFA Nations League 2026/27",
-            "StageName": "MATCHDAY 6",
-            "EventStartDate": "2026-11-15 20:00:00",
-            "Description": "Watch Latvia vs Armenia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Latvia vs Armenia match will take place on 15-Nov, Sunday, at 07:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794552567540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794552567540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1120,
-            "UrlSlug": "latvia-vs-armenia-unl-live-match"
-        },
-        {
-            "EntityId": 20191,
-            "VideoName": "Qualifier Leg - Stuttgart (GER)",
-            "CategoryName": "Longines FEI Jumping World Cup 2026",
-            "StageName": "Qualifier",
-            "EventStartDate": "2026-11-15 20:10:00",
-            "Description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794561590540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794561590540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 368,
-            "UrlSlug": "longines-fei-jumping-world-cup-2026"
-        },
         {
             "EntityId": 20084,
             "VideoName": "Belarus vs Albania",
@@ -80,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553350540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553350540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1120,
-            "UrlSlug": "belarus-vs-albania-unl-live-match"
+            "UrlSlug": "belarus-vs-albania-unl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+            ]
         },
         {
             "EntityId": 20083,
@@ -94,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794552894540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794552894540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1120,
-            "UrlSlug": "finland-vs-san marino-unl-live-match"
+            "UrlSlug": "finland-vs-san marino-unl-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 20088,
@@ -153,6 +99,20 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "france-vs-turkiye-unl-live-match"
+        },
+        {
+            "EntityId": 19115,
+            "VideoName": "Afghanistan vs Zimbabwe",
+            "CategoryName": "Afghanistan vs Zimbabwe 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-11-16 12:00:00",
+            "Description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865704540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1793865704540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1245,
+            "UrlSlug": "afg-vs-zim-2nd-test-live"
         },
         {
             "EntityId": 19201,
@@ -237,6 +197,62 @@
             "Status": "Upcoming",
             "CategoryId": 1120,
             "UrlSlug": "estonia-vs-bulgaria-unl-live-match"
+        },
+        {
+            "EntityId": 20098,
+            "VideoName": "Greece vs Serbia",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-11-17 01:45:00",
+            "Description": "Watch Greece vs Serbia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Greece vs Serbia match will take place on 17-Nov, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794568787540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794568787540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "greece-vs-serbia-unl-live-match"
+        },
+        {
+            "EntityId": 20097,
+            "VideoName": "North Macedonia vs Slovenia",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-11-17 01:45:00",
+            "Description": "Watch North Macedonia vs Slovenia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The North Macedonia vs Slovenia match will take place on 17-Nov, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794564922540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794564922540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "north macedonia-vs-slovenia-unl-live-match"
+        },
+        {
+            "EntityId": 20096,
+            "VideoName": "Switzerland vs Scotland",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-11-17 01:45:00",
+            "Description": "Watch Switzerland vs Scotland live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Switzerland vs Scotland match will take place on 17-Nov, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794564725540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794564725540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "switzerland-vs-scotland-unl-live-match"
+        },
+        {
+            "EntityId": 20095,
+            "VideoName": "Gibraltar vs Malta",
+            "CategoryName": "UEFA Nations League 2026/27",
+            "StageName": "MATCHDAY 6",
+            "EventStartDate": "2026-11-17 01:45:00",
+            "Description": "Watch Gibraltar vs Malta live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Gibraltar vs Malta match will take place on 17-Nov, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794564594540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794564594540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1120,
+            "UrlSlug": "gibraltar-vs-malta-unl-live-match"
         }
     ]
 }
