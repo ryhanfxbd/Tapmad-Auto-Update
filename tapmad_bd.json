@@ -1,48 +1,30 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "01:15 PM 18-11-2026",
+        "LastUpdate": "07:15 PM 18-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 2,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
         {
-            "EntityId": 19997,
-            "VideoName": "Pakistan vs Sri Lanka",
-            "CategoryName": "Sri Lanka Tour of Pakistan 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-11-17 10:30:00",
-            "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
-            "IsFreeToWatch": false,
+            "EntityId": 20342,
+            "VideoName": "GTA VI - Watch Party - Day 1",
+            "CategoryName": "GTA VI",
+            "StageName": "Show",
+            "EventStartDate": "2026-11-18 17:15:00",
+            "Description": "Experience the excitement of GTA 6 with a special live watch party on tapmad. In a first-of-its-kind experience for Pakistan's OTT streaming industry, tapmad brings gaming fans together to witness one of the most anticipated game release Grand Theft Auto VI. Join us on 18 November for an exclusive watch party filled with gaming excitement, live reactions, and memorable moments. Watch GTA VI live on tapmad in HD via app, web, or Smart TV, and be part of this historic gaming experience.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794998717540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794998717540x302.jpg",
+            "IsFreeToWatch": true,
             "Status": "Live",
-            "CategoryId": 1148,
-            "UrlSlug": "pak-vs-sl-2nd-test-live",
+            "CategoryId": 1364,
+            "UrlSlug": "gta-6-watch-party-live",
             "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20133,
-            "VideoName": "Australia vs England",
-            "CategoryName": "England Tour of Australia 2026",
-            "StageName": "3rd ODI",
-            "EventStartDate": "2026-11-18 09:30:00",
-            "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471454540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794471454540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-3rd-odi-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
             ]
         },
         {
@@ -58,6 +40,20 @@
             "Status": "Upcoming",
             "CategoryId": 1214,
             "UrlSlug": "nz-vs-ind-1st-test-live"
+        },
+        {
+            "EntityId": 19997,
+            "VideoName": "Pakistan vs Sri Lanka",
+            "CategoryName": "Sri Lanka Tour of Pakistan 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-11-19 10:30:00",
+            "Description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794475686540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794475686540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1148,
+            "UrlSlug": "pak-vs-sl-2nd-test-live"
         },
         {
             "EntityId": 19203,
@@ -158,6 +154,20 @@
             "UrlSlug": "macau-grand-prix-2026"
         },
         {
+            "EntityId": 20290,
+            "VideoName": "FIA GT World Cup - Qualifying - Q1",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Qualifying 1",
+            "EventStartDate": "2026-11-20 13:50:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794985383540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794985383540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
+        },
+        {
             "EntityId": 19205,
             "VideoName": "Adelaide Strikers vs Melbourne Renegades",
             "CategoryName": "Women's Big Bash League 2026",
@@ -170,6 +180,20 @@
             "Status": "Upcoming",
             "CategoryId": 1247,
             "UrlSlug": "ads-vs-mlr-28th-t20i-live"
+        },
+        {
+            "EntityId": 20296,
+            "VideoName": "FIA GT World Cup - Qualifying - Q2 - Super Pole",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Qualifying 2",
+            "EventStartDate": "2026-11-20 14:40:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794985782540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794985782540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
         },
         {
             "EntityId": 19968,
@@ -200,60 +224,18 @@
             "UrlSlug": "hh-vs-sct-29th-t20i-live"
         },
         {
-            "EntityId": 19207,
-            "VideoName": "Sydney Sixers vs Perth Scorchers",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-21 10:30:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 30th T20I is scheduled to be played on 21-Nov-2026 at 09:30 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794829865540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794829865540x302.jpg",
+            "EntityId": 20302,
+            "VideoName": "FIA F4 World Cup - Day 1",
+            "CategoryName": "Macau Grand Prix 2026",
+            "StageName": "Race",
+            "EventStartDate": "2026-11-21 09:40:00",
+            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794990003540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794990003540x302.jpg",
             "IsFreeToWatch": false,
             "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "sys-vs-per-30th-t20i-live"
-        },
-        {
-            "EntityId": 20226,
-            "VideoName": "Round 19 - Race 1",
-            "CategoryName": "Kumho FIA TCR World Tour Euro Series 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-11-21 11:05:00",
-            "Description": "Live Stream Round 19 - Race 1 online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794819825540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794819825540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 427,
-            "UrlSlug": "round-19---race-1"
-        },
-        {
-            "EntityId": 20134,
-            "VideoName": "Australia vs England",
-            "CategoryName": "England Tour of Australia 2026",
-            "StageName": "1st T20I",
-            "EventStartDate": "2026-11-21 14:15:00",
-            "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 21-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794812851540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794812851540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-1st-t20i-live"
-        },
-        {
-            "EntityId": 19969,
-            "VideoName": "Nice vs PSG",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-11-21 22:15:00",
-            "Description": "Watch Nice vs PSG live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Nice vs PSG match will take place on 21-Nov, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794901051540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794901051540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "nice-vs-psg-ligue-one-live-match"
+            "CategoryId": 1361,
+            "UrlSlug": "macau-grand-prix-2026"
         }
     ]
 }
