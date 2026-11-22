@@ -1,151 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "12:45 PM 22-11-2026",
+        "LastUpdate": "01:30 AM 23-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 3,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19065,
-            "VideoName": "New Zealand vs India",
-            "CategoryName": "India Tour of New Zealand 2026",
-            "StageName": "1st Test",
-            "EventStartDate": "2026-11-19 04:00:00",
-            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553818540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1214,
-            "UrlSlug": "nz-vs-ind-1st-test-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20326,
-            "VideoName": "FIA GT World Cup - Day 2",
-            "CategoryName": "Macau Grand Prix 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-11-22 10:35:00",
-            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794996391540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794996391540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1361,
-            "UrlSlug": "macau-grand-prix-2026",
-            "stream_url": [
-                "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19208,
-            "VideoName": "Brisbane Heat vs Adelaide Strikers",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-22 10:40:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The BRH vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 31st T20I is scheduled to be played on 22-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794830136540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794830136540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1247,
-            "UrlSlug": "brh-vs-ads-31st-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20332,
-            "VideoName": "FIA FR World Cup - Day 2",
-            "CategoryName": "Macau Grand Prix 2026",
-            "StageName": "Race",
-            "EventStartDate": "2026-11-22 13:30:00",
-            "Description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795070957540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795070957540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1361,
-            "UrlSlug": "macau-grand-prix-2026"
-        },
-        {
-            "EntityId": 19209,
-            "VideoName": "Melbourne Stars vs Melbourne Renegades",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-22 14:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The STA vs MLR brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 32nd T20I is scheduled to be played on 22-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794830300540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794830300540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "sta-vs-mlr-32nd-t20i-live"
-        },
-        {
-            "EntityId": 20245,
-            "VideoName": "Barcelona vs Villarreal",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 13",
-            "EventStartDate": "2026-11-22 19:00:00",
-            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172545540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172545540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--barcelona-vs-villarreal-live"
-        },
-        {
-            "EntityId": 19974,
-            "VideoName": "Paris FC vs Angers",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-11-22 20:00:00",
-            "Description": "Watch Paris FC vs Angers live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Paris FC vs Angers match will take place on 22-Nov, Sunday, at 07:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902702540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902702540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "paris fc-vs-angers-ligue-one-live-match"
-        },
-        {
-            "EntityId": 20246,
-            "VideoName": "Racing Santander vs Real Sociedad",
-            "CategoryName": "LaLiga 2026/27",
-            "StageName": "MATCHDAY 13",
-            "EventStartDate": "2026-11-22 21:15:00",
-            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Real Sociedad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172613540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172613540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 827,
-            "UrlSlug": "laliga--racing-santander-vs-real-sociedad-live"
-        },
-        {
-            "EntityId": 19975,
-            "VideoName": "Lorient vs Rennes",
-            "CategoryName": "French Ligue 1 2026/27",
-            "StageName": "MATCHDAY 11",
-            "EventStartDate": "2026-11-22 22:15:00",
-            "Description": "Watch Lorient vs Rennes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Rennes match will take place on 22-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902830540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902830540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1115,
-            "UrlSlug": "lorient-vs-rennes-ligue-one-live-match"
-        },
         {
             "EntityId": 20247,
             "VideoName": "Osasuna vs Malaga",
@@ -156,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172688540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172688540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--osasuna-vs-malaga-live"
+            "UrlSlug": "laliga--osasuna-vs-malaga-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+            ]
         },
         {
             "EntityId": 19976,
@@ -170,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902947540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794902947540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1115,
-            "UrlSlug": "marseille-vs-le mans-ligue-one-live-match"
+            "UrlSlug": "marseille-vs-le mans-ligue-one-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+            ]
         },
         {
             "EntityId": 20249,
@@ -187,6 +57,20 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--getafe-vs-atletico-madrid-live"
+        },
+        {
+            "EntityId": 19065,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "1st Test",
+            "EventStartDate": "2026-11-23 04:00:00",
+            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794553818540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-1st-test-live"
         },
         {
             "EntityId": 19728,
@@ -271,6 +155,104 @@
             "Status": "Upcoming",
             "CategoryId": 828,
             "UrlSlug": "afc-champions-league-elite-Al Ittihad Club vs Pakhtakor"
+        },
+        {
+            "EntityId": 20248,
+            "VideoName": "Levante vs Elche",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-24 02:00:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Levante vs Elche live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172891540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795172891540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--levante-vs-elche-live"
+        },
+        {
+            "EntityId": 19758,
+            "VideoName": "Newcastle Jets FC (AUS) vs Kashiwa Reysol (JPN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 13:45:00",
+            "Description": "Watch Newcastle Jets FC vs Kashiwa Reysol live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Kashiwa Reysol match is scheduled to take place on 24-Nov,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795161741540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795161741540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Newcastle Jets FC vs Kashiwa Reysol"
+        },
+        {
+            "EntityId": 20135,
+            "VideoName": "Australia vs England",
+            "CategoryName": "England Tour of Australia 2026",
+            "StageName": "2nd T20I",
+            "EventStartDate": "2026-11-24 14:15:00",
+            "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd T20I is scheduled to be played on 24-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813008540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794813008540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1327,
+            "UrlSlug": "aus-vs-eng-2nd-t20i-live"
+        },
+        {
+            "EntityId": 19768,
+            "VideoName": "Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 16:00:00",
+            "Description": "Watch Kyoto Sanga F.C. vs FC Pohang Steelers live online on tapmad. The AFC Champions League Elite Kyoto Sanga F.C. vs FC Pohang Steelers match is scheduled to take place on 24-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795165240540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795165240540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Kyoto Sanga F.C. vs FC Pohang Steelers"
+        },
+        {
+            "EntityId": 19763,
+            "VideoName": "Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 16:00:00",
+            "Description": "Watch Daejeon Hana Citizen FC vs Beijing FC live online on tapmad. The AFC Champions League Elite Daejeon Hana Citizen FC vs Beijing FC match is scheduled to take place on 24-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795164518540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795164518540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Daejeon Hana Citizen FC vs Beijing FC"
+        },
+        {
+            "EntityId": 19783,
+            "VideoName": "Cong An Ha Noi (VIE) vs Vissel Kobe (JPN)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 18:15:00",
+            "Description": "Watch Cong An Ha Noi vs Vissel Kobe live online on tapmad. The AFC Champions League Elite Cong An Ha Noi vs Vissel Kobe match is scheduled to take place on 24-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795165692540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795165692540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Cong An Ha Noi vs Vissel Kobe"
+        },
+        {
+            "EntityId": 19778,
+            "VideoName": "Ratchaburi FC (THA) vs Johor Darul Ta'zim FC (MAS)",
+            "CategoryName": "AFC Champions League Elite 2026/27",
+            "StageName": "MATCHDAY 5",
+            "EventStartDate": "2026-11-24 18:15:00",
+            "Description": "Watch Ratchaburi FC vs Johor Darul Ta'zim FC live online on tapmad. The AFC Champions League Elite Ratchaburi FC vs Johor Darul Ta'zim FC match is scheduled to take place on 24-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795166022540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795166022540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 828,
+            "UrlSlug": "afc-champions-league-elite-Ratchaburi FC vs Johor Darul Ta'zim FC"
         }
     ]
 }
