@@ -1,255 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "03:30 AM 27-11-2026",
+        "LastUpdate": "02:30 PM 27-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 10,
+        "LiveCount": 1,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 19876,
-            "VideoName": "Ferencvaros vs Celje",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Ferencvaros vs Celje live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Ferencvaros vs Celje match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370623540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795370623540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "ferencvaros-vs-celje-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19875,
-            "VideoName": "OFI vs Anderlecht",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch OFI vs Anderlecht live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The OFI vs Anderlecht match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370381540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795370381540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "ofi-vs-anderlecht-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19874,
-            "VideoName": "OL vs Lillestrom",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch OL vs Lillestrom live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The OL vs Lillestrom match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370005540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795370005540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "ol-vs-lillestrom-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19873,
-            "VideoName": "Hoffenheim vs Sturm Graz",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Hoffenheim vs Sturm Graz live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Hoffenheim vs Sturm Graz match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369796540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795369796540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "hoffenheim-vs-sturm graz-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19872,
-            "VideoName": "NEC vs Rennes",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch NEC vs Rennes live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The NEC vs Rennes match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369502540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795369502540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "nec-vs-rennes-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19871,
-            "VideoName": "Sparta Praha vs AZ Alkmaar",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Sparta Praha vs AZ Alkmaar live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sparta Praha vs AZ Alkmaar match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369389540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795369390540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "sparta praha-vs-az alkmaar-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19870,
-            "VideoName": "Juventus vs Omonoia",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Juventus vs Omonoia live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Juventus vs Omonoia match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369207540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795369207540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "juventus-vs-omonoia-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19869,
-            "VideoName": "Palace vs Real Sociedad",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Palace vs Real Sociedad live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Palace vs Real Sociedad match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795368933540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795368933540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "palace-vs-real-sociedad-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19868,
-            "VideoName": "Sunderland vs Jagiellonia Bialystok",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Sunderland vs Jagiellonia Bialystok live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sunderland vs Jagiellonia Bialystok match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795368712540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795368712540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "sunderland-vs-jagiellonia-bialystok-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19867,
-            "VideoName": "Torreense vs Celtic",
-            "CategoryName": "UEFA Europa League 2026/27",
-            "StageName": "MATCHDAY 5",
-            "EventStartDate": "2026-11-27 02:00:00",
-            "Description": "Watch Torreense vs Celtic live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Torreense vs Celtic match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795368451540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795368451540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 905,
-            "UrlSlug": "torreense-vs-celtic-uel-live-match",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-            ]
-        },
-        {
-            "EntityId": 19066,
-            "VideoName": "New Zealand vs India",
-            "CategoryName": "India Tour of New Zealand 2026",
-            "StageName": "2nd Test",
-            "EventStartDate": "2026-11-27 04:00:00",
-            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 27-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794815049540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794815049540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1214,
-            "UrlSlug": "nz-vs-ind-2nd-test-live"
-        },
-        {
-            "EntityId": 20518,
-            "VideoName": "GT1 Race Club - Qualifying Round - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-11-27 04:45:00",
-            "Description": "The  GT1 Race Club - Qualifying Round - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795720174540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795720174540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "-gt1-race-club---qualifying-round---adelaide,-australia--live"
-        },
-        {
-            "EntityId": 20521,
-            "VideoName": "GTWCA - Qualifying Round - Part 1 - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-11-27 06:45:00",
-            "Description": "The  GTWCA - Qualifying Round - Part 1 - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795720773540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795720773540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "-gtwca---qualifying-round---part-1---adelaide,-australia--live"
-        },
-        {
-            "EntityId": 20524,
-            "VideoName": "GTWCA - Qualifying Round - Part 2 - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Qualifying Race",
-            "EventStartDate": "2026-11-27 07:05:00",
-            "Description": "The  GTWCA - Qualifying Round - Part 2 - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795721123540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795721123540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "-gtwca---qualifying-round---part-2---adelaide,-australia--live"
-        },
-        {
-            "EntityId": 20527,
-            "VideoName": "GT1 Race Club - Race 1 - Adelaide, Australia",
-            "CategoryName": "GT World Challenge EU & Asia 2026",
-            "StageName": "Race 1",
-            "EventStartDate": "2026-11-27 07:25:00",
-            "Description": "The  GT1 Race Club - Race 1 - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795721476540456.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795721476540456.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 371,
-            "UrlSlug": "-gt1-race-club---race-1---adelaide,-australia--live"
-        },
         {
             "EntityId": 20136,
             "VideoName": "Australia vs England",
@@ -260,9 +20,13 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813228540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794813228540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-3rd-t20i-live"
+            "UrlSlug": "aus-vs-eng-3rd-t20i-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+            ]
         },
         {
             "EntityId": 20370,
@@ -389,6 +153,90 @@
             "Status": "Upcoming",
             "CategoryId": 827,
             "UrlSlug": "laliga--levante-vs-racing-santander-live"
+        },
+        {
+            "EntityId": 19066,
+            "VideoName": "New Zealand vs India",
+            "CategoryName": "India Tour of New Zealand 2026",
+            "StageName": "2nd Test",
+            "EventStartDate": "2026-11-28 04:00:00",
+            "Description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 27-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794815049540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794815049540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1214,
+            "UrlSlug": "nz-vs-ind-2nd-test-live"
+        },
+        {
+            "EntityId": 20530,
+            "VideoName": "GTWCA - Race 1 - Adelaide, Australia",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 1",
+            "EventStartDate": "2026-11-28 04:40:00",
+            "Description": "The  GTWCA - Race 1 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795763914540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795763914540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gtwca---race-1---adelaide,-australia-live"
+        },
+        {
+            "EntityId": 20533,
+            "VideoName": "GT1 Race Club - Race 2 - Adelaide, Australia",
+            "CategoryName": "GT World Challenge EU & Asia 2026",
+            "StageName": "Race 2",
+            "EventStartDate": "2026-11-28 06:20:00",
+            "Description": "The  GT1 Race Club - Race 2 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795764592540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795764592540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 371,
+            "UrlSlug": "gt1-race-club---race-2---adelaide,-australia-live"
+        },
+        {
+            "EntityId": 19214,
+            "VideoName": "Melbourne Renegades vs Melbourne Stars",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-11-28 10:40:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The MLR vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 37th T20I is scheduled to be played on 28-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415432540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795415432540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "mlr-vs-sta-37th-t20i-live"
+        },
+        {
+            "EntityId": 19215,
+            "VideoName": "Sydney Thunder vs Sydney Sixers",
+            "CategoryName": "Women's Big Bash League 2026",
+            "StageName": "Group Stage",
+            "EventStartDate": "2026-11-28 14:10:00",
+            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs SYS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 38th T20I is scheduled to be played on 28-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415568540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795415568540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1247,
+            "UrlSlug": "sct-vs-sys-38th-t20i-live"
+        },
+        {
+            "EntityId": 20372,
+            "VideoName": "Chattogram City FC vs Brothers Union Ltd",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch Chattogram City FC vs Brothers Union Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Chattogram City FC vs Brothers Union Ltd match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679609540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679609540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038"
         }
     ]
 }
