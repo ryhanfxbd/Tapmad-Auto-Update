@@ -1,131 +1,15 @@
 {
     "HeaderInfo": {
         "PlaylistName": "Tapmad Matches Metadata",
-        "LastUpdate": "02:30 PM 27-11-2026",
+        "LastUpdate": "03:15 AM 28-11-2026",
         "Telegram": "https://t.me/livesportsplay",
         "Owner": "Albatr0sss"
     },
     "Stats": {
-        "LiveCount": 1,
+        "LiveCount": 2,
         "UpcomingCount": 15
     },
     "Matches": [
-        {
-            "EntityId": 20136,
-            "VideoName": "Australia vs England",
-            "CategoryName": "England Tour of Australia 2026",
-            "StageName": "3rd T20I",
-            "EventStartDate": "2026-11-27 14:15:00",
-            "Description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 27-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813228540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1794813228540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Live",
-            "CategoryId": 1327,
-            "UrlSlug": "aus-vs-eng-3rd-t20i-live",
-            "stream_url": [
-                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-                "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
-            ]
-        },
-        {
-            "EntityId": 20370,
-            "VideoName": "Dhaka Wanderers Club vs Arambagh Krira Shangha",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 6",
-            "EventStartDate": "2026-11-27 14:30:00",
-            "Description": "Watch Dhaka Wanderers Club vs Arambagh Krira Shangha in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Dhaka Wanderers Club vs Arambagh Krira Shangha match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679479540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679479540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 20369,
-            "VideoName": "Rahamatgonj MFS vs Mohammedan SC Ltd",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 6",
-            "EventStartDate": "2026-11-27 14:30:00",
-            "Description": "Watch Rahamatgonj MFS vs Mohammedan SC Ltd in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Rahamatgonj MFS vs Mohammedan SC Ltd match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679400540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679400540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 20367,
-            "VideoName": "Bangladesh Police FC vs Abahani Ltd. Dhaka",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 6",
-            "EventStartDate": "2026-11-27 14:30:00",
-            "Description": "Watch Bangladesh Police FC vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bangladesh Police FC vs Abahani Ltd. Dhaka match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679248540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679248540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 19213,
-            "VideoName": "Perth Scorchers vs Hobart Hurricanes",
-            "CategoryName": "Women's Big Bash League 2026",
-            "StageName": "Group Stage",
-            "EventStartDate": "2026-11-27 16:10:00",
-            "Description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 36th T20I is scheduled to be played on 27-Nov-2026 at 03:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415254540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795415254540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1247,
-            "UrlSlug": "per-vs-hh-36th-t20i-live"
-        },
-        {
-            "EntityId": 20368,
-            "VideoName": "Bashundhara Kings vs Fortis FC Ltd.",
-            "CategoryName": "Bangladesh Football League 2026/27",
-            "StageName": "Round 6",
-            "EventStartDate": "2026-11-27 17:30:00",
-            "Description": "Watch Bashundhara Kings vs Fortis FC Ltd. in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bashundhara Kings vs Fortis FC Ltd. match will take place on 27-Nov, at 05:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679329540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679329540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 1105,
-            "UrlSlug": "bangladesh-football-league-2026"
-        },
-        {
-            "EntityId": 20263,
-            "VideoName": "Al Qadsiah vs Al-Fayha",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 13",
-            "EventStartDate": "2026-11-27 20:20:00",
-            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al Qadsiah vs Al-Fayha live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795677537540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795677537540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-qadsiah-vs-al-fayha-live"
-        },
-        {
-            "EntityId": 20264,
-            "VideoName": "Al-Ittihad vs Neom",
-            "CategoryName": "Saudi Pro League 2026/27",
-            "StageName": "MATCHDAY 13",
-            "EventStartDate": "2026-11-27 23:30:00",
-            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ittihad vs Neom live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795677605540x302.jpg",
-            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795677605540x302.jpg",
-            "IsFreeToWatch": false,
-            "Status": "Upcoming",
-            "CategoryId": 799,
-            "UrlSlug": "saudi-pro-league--al-ittihad-vs-neom-live"
-        },
         {
             "EntityId": 19977,
             "VideoName": "Brest vs Paris FC",
@@ -136,9 +20,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795598315540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795598315540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 1115,
-            "UrlSlug": "brest-vs-paris fc-ligue-one-live-match"
+            "UrlSlug": "brest-vs-paris fc-ligue-one-live-match",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+            ]
         },
         {
             "EntityId": 20250,
@@ -150,9 +37,12 @@
             "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680381540x302.jpg",
             "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680381540x302.jpg",
             "IsFreeToWatch": false,
-            "Status": "Upcoming",
+            "Status": "Live",
             "CategoryId": 827,
-            "UrlSlug": "laliga--levante-vs-racing-santander-live"
+            "UrlSlug": "laliga--levante-vs-racing-santander-live",
+            "stream_url": [
+                "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
+            ]
         },
         {
             "EntityId": 19066,
@@ -237,6 +127,132 @@
             "Status": "Upcoming",
             "CategoryId": 1105,
             "UrlSlug": "bangladesh-football-league-2038"
+        },
+        {
+            "EntityId": 20371,
+            "VideoName": "City Club vs PWD Sports Club",
+            "CategoryName": "Bangladesh Football League 2026/27",
+            "StageName": "Round 6",
+            "EventStartDate": "2026-11-28 14:30:00",
+            "Description": "Watch City Club vs PWD Sports Club in the Bangladesh Football League 2026/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs PWD Sports Club match will take place on 28-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679544540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795679544540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1105,
+            "UrlSlug": "bangladesh-football-league-2038"
+        },
+        {
+            "EntityId": 20265,
+            "VideoName": "Al-Hazem vs Al-Nassr",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-28 18:15:00",
+            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Hazem vs Al-Nassr live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795677677540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795677677540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-hazem-vs-al-nassr-live"
+        },
+        {
+            "EntityId": 20251,
+            "VideoName": "Betis vs Rayo Vallecano",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 14",
+            "EventStartDate": "2026-11-28 19:00:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Rayo Vallecano live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680456540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680456540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--betis-vs-rayo-vallecano-live"
+        },
+        {
+            "EntityId": 20266,
+            "VideoName": "Al-Ettifaq vs Al-Hilal",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-28 20:20:00",
+            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ettifaq vs Al-Hilal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795677914540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795677914540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-ettifaq-vs-al-hilal-live"
+        },
+        {
+            "EntityId": 20252,
+            "VideoName": "Malaga vs Athletic",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 14",
+            "EventStartDate": "2026-11-28 21:15:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Athletic live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680530540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680530540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--malaga-vs-athletic-live"
+        },
+        {
+            "EntityId": 19978,
+            "VideoName": "Angers vs Lens",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 12",
+            "EventStartDate": "2026-11-28 22:15:00",
+            "Description": "Watch Angers vs Lens live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Angers vs Lens match will take place on 28-Nov, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795598484540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795598484540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "angers-vs-lens-ligue-one-live-match"
+        },
+        {
+            "EntityId": 20267,
+            "VideoName": "Al-Ahli vs Al-Taawoun",
+            "CategoryName": "Saudi Pro League 2026/27",
+            "StageName": "MATCHDAY 13",
+            "EventStartDate": "2026-11-28 23:30:00",
+            "Description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ahli vs Al-Taawoun live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795678020540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795678020540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 799,
+            "UrlSlug": "saudi-pro-league--al-ahli-vs-al-taawoun-live"
+        },
+        {
+            "EntityId": 20253,
+            "VideoName": "Elche vs Atletico Madrid",
+            "CategoryName": "LaLiga 2026/27",
+            "StageName": "MATCHDAY 14",
+            "EventStartDate": "2026-11-28 23:30:00",
+            "Description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Elche vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795680601540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795680601540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 827,
+            "UrlSlug": "laliga--elche-vs-atletico-madrid-live"
+        },
+        {
+            "EntityId": 19982,
+            "VideoName": "Le Havre vs Strasbourg",
+            "CategoryName": "French Ligue 1 2026/27",
+            "StageName": "MATCHDAY 12",
+            "EventStartDate": "2026-11-29 01:45:00",
+            "Description": "Watch Le Havre vs Strasbourg live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Le Havre vs Strasbourg match will take place on 29-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "ThumbnailStandard": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795601971540x302.jpg",
+            "ThumbnailTV": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1795601971540x302.jpg",
+            "IsFreeToWatch": false,
+            "Status": "Upcoming",
+            "CategoryId": 1115,
+            "UrlSlug": "le havre-vs-strasbourg-ligue-one-live-match"
         }
     ]
 }
